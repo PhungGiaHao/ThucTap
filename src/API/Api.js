@@ -1,0 +1,1 @@
+export default url =  'https://apisvtt.mobifone9.vn/api/restful/' 
